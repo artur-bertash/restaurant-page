@@ -9,3 +9,26 @@ img {
     width: 300px;
     height: auto;
 }
+
+header nav {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 36px;
+}
+
+
+nav button {
+    font-size: 1.4rem;
+}
+
+
+
+#content {
+    height: 100%;
+    width: 500px;
+}
+
+.wrapper {
+    width: 500px;
+}
